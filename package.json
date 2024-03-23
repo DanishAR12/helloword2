@@ -1,0 +1,12 @@
+{
+  "name": "helloword2",
+  "version": "1.0.0",
+  "description": "in this repository we are creating a typescript file of hello world with tsconfig.json and package.json",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
